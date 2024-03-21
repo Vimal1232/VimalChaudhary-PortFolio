@@ -1,9 +1,12 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Navbar } from "../Layout/index";
 import { Main } from "../components/index";
 import { Stacklow } from "../components/index";
 
 const Stack = () => {
+  useEffect(() => {
+    fetch("/api/connection").then((res) => console.log(res));
+  });
   return (
     <div>
       <div className=" px-6 py-6 bg-BgBlack relative">

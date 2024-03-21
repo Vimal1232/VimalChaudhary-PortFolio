@@ -32,13 +32,13 @@
     "description": "A popular React UI framework"
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Bootstrap",
     "img": "/Bootstrap.svg",
     "description": "A free and open-source CSS framework directed at responsive, mobile-first front-end web development"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Git",
     "img": "/Git.svg",
     "description": "A distributed version-control system for tracking changes in source code during software development"
