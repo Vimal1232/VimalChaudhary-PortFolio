@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "React",
+    "img": "/React.svg",
+    "description": "A JavaScript Library for building user interfaces"
+  },
+
+  {
+    "id": 2,
+    "name": "NodeJs",
+    "img": "/Node.svg",
+    "description": "A JavaScript runtime built on Chrome's V8 JavaScript engine"
+  },
+
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "img": "/Javascript.svg",
+    "description": "A high-level, interpreted programming language"
+  },
+  {
+    "id": 4,
+    "name": "Tailwind CSS",
+    "img": "/Tailwind.svg",
+    "description": "A utility-first CSS framework for rapid UI development"
+  },
+  {
+    "id": 5,
+    "name": "Material UI",
+    "img": "/Material.svg",
+    "description": "A popular React UI framework"
+  },
+  {
+    "id": 5,
+    "name": "Bootstrap",
+    "img": "/Bootstrap.svg",
+    "description": "A free and open-source CSS framework directed at responsive, mobile-first front-end web development"
+  },
+  {
+    "id": 6,
+    "name": "Git",
+    "img": "/Git.svg",
+    "description": "A distributed version-control system for tracking changes in source code during software development"
+  }
+]
