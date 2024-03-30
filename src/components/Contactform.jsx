@@ -11,7 +11,7 @@ const Contactform = () => {
         </div>
         <div>
           <form className="flex flex-col gap-6 w-full">
-            <div className="flex gap-5">
+            <div className="flex gap-5 max-md:flex-wrap">
               <input
                 type="text"
                 placeholder="Name"
@@ -25,7 +25,7 @@ const Contactform = () => {
                 placeholder:text-Ter3 placeholder:text-[16px] outline-none flex-1 font-Inter font-light"
               />
             </div>
-            <div className=" flex-1">
+            <div className=" flex-1 flex">
               <textarea
                 name="text"
                 id="subject"
