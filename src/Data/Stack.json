@@ -1,6 +1,12 @@
 [
   {
     "id": 1,
+    "name": "NextJs",
+    "img": "/nextjs.svg",
+    "description": "A React Frameword for building Full Stack Apps"
+  },
+  {
+    "id": 1,
     "name": "React",
     "img": "/React.svg",
     "description": "A JavaScript Library for building user interfaces"
