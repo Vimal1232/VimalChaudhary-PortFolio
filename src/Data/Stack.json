@@ -6,45 +6,45 @@
     "description": "A React Frameword for building Full Stack Apps"
   },
   {
-    "id": 1,
+    "id": 2,
     "name": "React",
     "img": "/React.svg",
     "description": "A JavaScript Library for building user interfaces"
   },
 
   {
-    "id": 2,
+    "id": 3,
     "name": "NodeJs",
     "img": "/Node.svg",
     "description": "A JavaScript runtime built on Chrome's V8 JavaScript engine"
   },
 
   {
-    "id": 3,
+    "id": 4,
     "name": "JavaScript",
     "img": "/Javascript.svg",
     "description": "A high-level, interpreted programming language"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Tailwind CSS",
     "img": "/Tailwind.svg",
     "description": "A utility-first CSS framework for rapid UI development"
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Material UI",
     "img": "/Material.svg",
     "description": "A popular React UI framework"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Bootstrap",
     "img": "/Bootstrap.svg",
     "description": "A free and open-source CSS framework directed at responsive, mobile-first front-end web development"
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Git",
     "img": "/Git.svg",
     "description": "A distributed version-control system for tracking changes in source code during software development"
