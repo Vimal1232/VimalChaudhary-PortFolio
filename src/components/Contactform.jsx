@@ -17,9 +17,7 @@ const Contactform = () => {
       })
       .then((response) => {
         console.log(response.data);
-        setName("");
-        setEmail("");
-        setMessage("");
+        window.location.reload();
       })
       .catch((error) => {
         console.error("error", error);
