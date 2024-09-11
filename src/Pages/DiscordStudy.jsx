@@ -31,12 +31,12 @@ const DiscordStudy = () => {
                 reality through beautifully generated artwork.
               </p>
             </div>
-            <div className="flex gap-6 max-sm:flex-col">
-              <div className="flex items-center bg-Primary rounded-[28px]  w-full gap-6">
-                <img src="/ai.png" alt="" className=" w-full object-cover " />
+            <div className="flex  items-center bg-Primary rounded-[28px]  w-full gap-6">
+              <div className="">
+                <img src="/ai.png" alt="" className="  object-cover" />
               </div>
-              <div className="flex flex-col items-center bg-Primary rounded-[28px] w-full gap-6">
-                <img src="/code.png" alt="" className="rounded-[28px]" />
+              <div className="">
+                <img src="/code.png" alt="" className=" rounded-r-[28px]" />
               </div>
             </div>
             <div className="flex flex-col  bg-Primary rounded-[28px] p-[48px]  w-full gap-6">
