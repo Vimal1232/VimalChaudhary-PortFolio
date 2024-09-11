@@ -1,26 +1,20 @@
 [
   {
     "id": 1,
+    "name": "Discord Bot - Ai",
+    "Img": "/ai.png",
+    "url": "/DiscordStudy"
+  },
+  {
+    "id": 2,
     "name": "Kliq-Ecommerce",
     "Img": "/Kliq.png",
     "url": "https://kliq-marketplace.vercel.app/"
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Forge",
     "Img": "/Forge.png",
     "url": "https://forge-react.vercel.app/"
-  },
-  {
-    "id": 3,
-    "name": "Hoobank",
-    "Img": "/Hoobank.png",
-    "url": "https://hoobank-modern-bank-react-app.vercel.app/"
-  },
-  {
-    "id": 4,
-    "name": "Satoshi",
-    "Img": "/satoshi.png",
-    "url": "https://vimal1232.github.io/SatoshiBootstrap/"
   }
 ]

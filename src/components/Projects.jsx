@@ -9,7 +9,7 @@ const Projects = ({ Limit, Grid }) => {
         {Prodata.slice(0, Limit).map((data) => {
           return (
             <div key={data.id} className=" ">
-              <Link to={data.url} target="_blank">
+              <Link to={data.url} target={data.id == 1 ? "" : "_blank"}>
                 <div className="overflow-hidden rounded-[20px] flex flex-col gap-4">
                   <img
                     src={data.Img}
