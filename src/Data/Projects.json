@@ -1,6 +1,12 @@
 [
   {
     "id": 1,
+    "name": "Repiliqa - Temporary Email Service",
+    "Img": "/Repliqa.png",
+    "url": "/Repliqa"
+  },
+  {
+    "id": 1,
     "name": "Discord Bot - Ai",
     "Img": "/Discord.png",
     "url": "/DiscordStudy"

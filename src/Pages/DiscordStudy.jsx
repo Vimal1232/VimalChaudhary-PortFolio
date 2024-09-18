@@ -31,7 +31,7 @@ const DiscordStudy = () => {
                 reality through beautifully generated artwork.
               </p>
             </div>
-            <div className="flex  items-center bg-Primary rounded-[28px]  w-full gap-6">
+            <div className="flex max-sm:flex-col  items-center bg-Primary rounded-[28px]  w-full gap-6">
               <div className="">
                 <img src="/ai.png" alt="" className="  object-cover" />
               </div>
