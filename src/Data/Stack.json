@@ -18,40 +18,46 @@
     "img": "/Node.svg",
     "description": "A JavaScript runtime built on Chrome's V8 JavaScript engine"
   },
-
   {
     "id": 4,
+    "name": "WordPress",
+    "img": "/wordpress.png",
+    "description": "A JavaScript runtime built on Chrome's V8 JavaScript engine"
+  },
+
+  {
+    "id": 5,
     "name": "MongoDb",
     "img": "/mongodb.svg",
     "description": "Hello"
   },
 
   {
-    "id": 4,
+    "id": 6,
     "name": "JavaScript",
     "img": "/Javascript.svg",
     "description": "A high-level, interpreted programming language"
   },
   {
-    "id": 5,
+    "id": 7,
     "name": "Tailwind CSS",
     "img": "/Tailwind.svg",
     "description": "A utility-first CSS framework for rapid UI development"
   },
   {
-    "id": 6,
+    "id": 8,
     "name": "Material UI",
     "img": "/Material.svg",
     "description": "A popular React UI framework"
   },
   {
-    "id": 7,
+    "id": 9,
     "name": "Bootstrap",
     "img": "/Bootstrap.svg",
     "description": "A free and open-source CSS framework directed at responsive, mobile-first front-end web development"
   },
   {
-    "id": 8,
+    "id": 10,
     "name": "Git",
     "img": "/Git.svg",
     "description": "A distributed version-control system for tracking changes in source code during software development"
