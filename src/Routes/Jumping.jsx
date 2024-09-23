@@ -7,6 +7,7 @@ import {
   Contact,
   DiscordStudy,
   Repliqa,
+  Freelance,
 } from "../Pages/index";
 import Scrolltop from "../Hooks/scrolltop";
 
@@ -21,6 +22,7 @@ const Jumping = () => {
         <Route path="/Contact" element={<Contact />} />
         <Route path="/DiscordStudy" element={<DiscordStudy />} />
         <Route path="/Repliqa" element={<Repliqa />} />
+        <Route path="/Wordpress" element={<Freelance />} />
       </Routes>
     </Router>
   );

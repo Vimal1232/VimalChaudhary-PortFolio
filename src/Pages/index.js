@@ -4,5 +4,6 @@ import Stack from "./Stack";
 import Contact from "./Contact";
 import DiscordStudy from "./DiscordStudy";
 import Repliqa from "./Repliqa";
+import Freelance from "./Freelance";
 
-export { Home, ProjectsPage, Stack, Contact, DiscordStudy, Repliqa };
+export { Home, ProjectsPage, Stack, Contact, DiscordStudy, Repliqa, Freelance };

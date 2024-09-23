@@ -6,19 +6,25 @@
     "url": "/Repliqa"
   },
   {
-    "id": 1,
+    "id": 2,
+    "name": "Shivan Chemicals",
+    "Img": "/FreelANCE.png",
+    "url": "/Wordpress"
+  },
+  {
+    "id": 3,
     "name": "Discord Bot - Ai",
     "Img": "/Discord.png",
     "url": "/DiscordStudy"
   },
   {
-    "id": 2,
+    "id": 4,
     "name": "Kliq-Ecommerce",
     "Img": "/Kliq.png",
     "url": "https://kliq-marketplace.vercel.app/"
   },
   {
-    "id": 3,
+    "id": 5,
     "name": "Forge",
     "Img": "/Forge.png",
     "url": "https://forge-react.vercel.app/"
