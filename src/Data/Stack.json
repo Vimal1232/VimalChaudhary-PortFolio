@@ -23,6 +23,19 @@
     "img": "/docker.png",
     "description": "A JavaScript runtime built on Chrome's V8 JavaScript engine"
   },
+  {
+    "id": 4,
+    "name": "Python",
+    "img": "/python.png",
+    "description": "A JavaScript runtime built on Chrome's V8 JavaScript engine"
+  },
+
+  {
+    "id": 4,
+    "name": "ExpressJs",
+    "img": "/ex.png",
+    "description": "A JavaScript runtime built on Chrome's V8 JavaScript engine"
+  },
 
   {
     "id": 5,
