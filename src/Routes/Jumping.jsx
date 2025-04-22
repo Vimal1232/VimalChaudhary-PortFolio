@@ -11,6 +11,7 @@ import {
   NoCopy,
 } from "../Pages/index";
 import Scrolltop from "../Hooks/scrolltop";
+import Stream from "../Pages/Stream";
 
 const Jumping = () => {
   return (
@@ -25,6 +26,7 @@ const Jumping = () => {
         <Route path="/Repliqa" element={<Repliqa />} />
         <Route path="/Wordpress" element={<Freelance />} />
         <Route path="/Nocopy" element={<NoCopy />} />
+        <Route path="/Stream" element={<Stream />} />
       </Routes>
     </Router>
   );
