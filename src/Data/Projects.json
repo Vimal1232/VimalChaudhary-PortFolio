@@ -1,6 +1,12 @@
 [
   {
     "id": 1,
+    "name": "Chip-8 - A Emulator Using Javascript",
+    "Img": "/Chip-8.png",
+    "url": "/Chip"
+  },
+  {
+    "id": 1,
     "name": "Stream It - Live Stream Over HLS",
     "Img": "/Stream.png",
     "url": "/Stream"

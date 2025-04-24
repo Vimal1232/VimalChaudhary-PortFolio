@@ -12,6 +12,7 @@ import {
 } from "../Pages/index";
 import Scrolltop from "../Hooks/scrolltop";
 import Stream from "../Pages/Stream";
+import Chip from "../Pages/Chip";
 
 const Jumping = () => {
   return (
@@ -27,6 +28,7 @@ const Jumping = () => {
         <Route path="/Wordpress" element={<Freelance />} />
         <Route path="/Nocopy" element={<NoCopy />} />
         <Route path="/Stream" element={<Stream />} />
+        <Route path="/Chip" element={<Chip />} />
       </Routes>
     </Router>
   );
