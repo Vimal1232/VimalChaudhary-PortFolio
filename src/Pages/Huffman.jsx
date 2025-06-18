@@ -2,7 +2,7 @@ import React from "react";
 import { Navbar } from "../Layout/index";
 import { Main } from "../components";
 
-const Chip = () => {
+const Huffman = () => {
   return (
     <div className=" px-6 py-6 bg-BgBlack relative">
       <div className="flex gap-6 max-md:flex-col relative">
@@ -12,33 +12,34 @@ const Chip = () => {
           <Navbar />
         </div>
         <div className="flex flex-col gap-6 flex-1 ml-[300px] max-md:m-0 ">
-          <Main title="Chip-8" />
+          <Main title="Compression Using Huffman Coding in C++" />
           <div className="flex flex-col gap-10">
             <div className="flex flex-col bg-Primary rounded-[28px] p-[48px] w-full gap-6">
               <h1 className=" text-Secondary font-LeagueGothic text-[40px]">
                 The Brief
               </h1>
               <p className="text-Ter text-[14px] font-Inter">
-                A fully functional emulator for the Chip-8 virtual machine,
-                designed to accurately run classic games from the 1970s and
-                1980s. The emulator replicates the behavior of the original
-                Chip-8 system, including its 4KB memory, 16 8-bit registers,
-                stack operations, timers, and instruction set. Built from
-                scratch with a focus on low-level systems understanding and
-                emulator architecture.
+                This project implements Huffman coding, a lossless data
+                compression algorithm, in C++. It efficiently compresses text
+                files by assigning variable-length codes to characters based on
+                their frequencies. The program reads a text file, builds a
+                Huffman tree, generates codes, Output Compressed File It also
+                includes functionality to decompress the data back to its
+                original form.
               </p>
             </div>
             <div className="flex max-sm:flex-col  items-center bg-Primary rounded-[28px]  w-full gap-6">
               <div className="">
-                <img src="/chip.png" alt="" className="  object-cover" />
+                <img src="/huff1.png" alt="" className="  object-cover" />
               </div>
-              <div>
-                <img src="/Chipcode.png" alt="" className=" object-cover" />
+              <div className="">
+                <img src="/huff2.png" alt="" className="  object-cover" />
               </div>
             </div>
-             <div className="flex max-sm:flex-col  items-center bg-Primary rounded-lg px-5 py-5 w-full gap-6">
+
+            <div className="flex max-sm:flex-col  items-center bg-Primary rounded-lg px-5 py-5 w-full gap-6">
               <div>
-                <a href="https://github.com/Vimal1232/Chip-8">
+                <a href="https://github.com/Vimal1232/Compression-Using-Huffman-Encoding">
                   <p className="text-Secondary font-LeagueGothic text-[40px]">
                     See It For yourself{" "}
                     <span className="text-Ter text-[14px] font-Inter">
@@ -55,4 +56,4 @@ const Chip = () => {
   );
 };
 
-export default Chip;
+export default Huffman;

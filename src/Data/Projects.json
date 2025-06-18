@@ -1,6 +1,12 @@
 [
   {
     "id": 1,
+    "name": "Compression Using Huffman Coding in C++",
+    "Img": "/huffman.png",
+    "url": "/Huffman"
+  },
+  {
+    "id": 1,
     "name": "Chip-8 - A Emulator Using Javascript",
     "Img": "/Chip-8.png",
     "url": "/Chip"

@@ -13,6 +13,7 @@ import {
 import Scrolltop from "../Hooks/scrolltop";
 import Stream from "../Pages/Stream";
 import Chip from "../Pages/Chip";
+import Huffman from "../Pages/Huffman";
 
 const Jumping = () => {
   return (
@@ -29,6 +30,7 @@ const Jumping = () => {
         <Route path="/Nocopy" element={<NoCopy />} />
         <Route path="/Stream" element={<Stream />} />
         <Route path="/Chip" element={<Chip />} />
+        <Route path="/Huffman" element={<Huffman />} />
       </Routes>
     </Router>
   );
