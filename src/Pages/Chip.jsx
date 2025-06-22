@@ -36,9 +36,9 @@ const Chip = () => {
                 <img src="/Chipcode.png" alt="" className=" object-cover" />
               </div>
             </div>
-             <div className="flex max-sm:flex-col  items-center bg-Primary rounded-lg px-5 py-5 w-full gap-6">
+            <div className="flex max-sm:flex-col  items-center bg-Primary rounded-lg px-5 py-5 w-full gap-6">
               <div>
-                <a href="https://github.com/Vimal1232/Chip-8">
+                <a href="https://vimal1232.github.io/Chip-8/">
                   <p className="text-Secondary font-LeagueGothic text-[40px]">
                     See It For yourself{" "}
                     <span className="text-Ter text-[14px] font-Inter">
