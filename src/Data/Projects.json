@@ -1,6 +1,12 @@
 [
   {
     "id": 1,
+    "name": "Intel 8080 Space Invaders Emulator (C++)",
+    "Img": "/8080.png",
+    "url": "/8080"
+  },
+  {
+    "id": 1,
     "name": "Compression Using Huffman Coding in C++",
     "Img": "/huffman.png",
     "url": "/Huffman"

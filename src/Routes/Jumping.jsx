@@ -14,6 +14,7 @@ import Scrolltop from "../Hooks/scrolltop";
 import Stream from "../Pages/Stream";
 import Chip from "../Pages/Chip";
 import Huffman from "../Pages/Huffman";
+import Intel from "../Pages/8080";
 
 const Jumping = () => {
   return (
@@ -31,6 +32,7 @@ const Jumping = () => {
         <Route path="/Stream" element={<Stream />} />
         <Route path="/Chip" element={<Chip />} />
         <Route path="/Huffman" element={<Huffman />} />
+        <Route path="/8080" element={<Intel />} />
       </Routes>
     </Router>
   );
